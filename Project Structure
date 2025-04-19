@@ -1,4 +1,5 @@
 Project Structure:
+I have created the initial project structure and key test classes for automating:
 
 TestFFCProject/
 │
@@ -17,3 +18,9 @@ TestFFCProject/
 │           ├── LoginTest.java
 │           ├── PunchInTest.java
 │           └── AddCustomerTest.java
+
+
+
+1) Login Journey with DataProvider
+2) Punch In Toast Validation
+3) Add Customer using Parametrization
