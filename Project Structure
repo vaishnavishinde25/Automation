@@ -1,0 +1,19 @@
+Project Structure:
+
+TestFFCProject/
+│
+├── pom.xml
+├── testng.xml
+├── src/
+│   ├── main/java/
+│   │   ├── pages/
+│   │   │   ├── LoginPage.java
+│   │   │   ├── DashboardPage.java
+│   │   │   └── CustomerPage.java
+│   │   └── utils/
+│   │       └── ExcelUtils.java
+│   └── test/java/
+│       └── tests/
+│           ├── LoginTest.java
+│           ├── PunchInTest.java
+│           └── AddCustomerTest.java
